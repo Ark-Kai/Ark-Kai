@@ -9,7 +9,7 @@ I'm Kai Cui, currently a first-year master's student in University of Wisconsin-
 
 <summary>FAQs</summary>
 
-**Q: What's your plan after graduating?**
+**Q: What's your plan after graduating?**\
 A: I don't have a specific plan yet. LLMs have greatly changed my expectations for the job market. I am concurrently applying for a second master's/PhD and autumn recruitment. Canada and Australia may be my destinations in life, and Hong Kong may be a transit stop.
 
 </details>
