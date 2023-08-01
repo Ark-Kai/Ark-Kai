@@ -1,3 +1,7 @@
+<a href="https://github.com/ark-kai">
+    <img align="right" src="https://komarev.com/ghpvc/?username=ark-kai&label=Visitors&color=2666f1&style=flat" alt="gtihub-visitors" />
+</a>
+
 ### Hi there!
 I'm Kai Cui, currently a first-year master's student in University of Wisconsin-Madison MSDS program.
 
