@@ -1,5 +1,5 @@
 <a href="https://github.com/ark-kai">
-    <img align="right" src="https://komarev.com/ghpvc/?username=ark-kai&label=Visitors&color=2666f1&style=flat" alt="gtihub-visitors" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=kcui23&label=Visitors&color=2666f1&style=flat" alt="gtihub-visitors" />
 </a>
 
 ### Hi there!
@@ -22,7 +22,7 @@ A: I don't have a specific plan yet. LLMs have greatly changed my expectations f
 
 ---
 
-Email: kcui@foxmail.com
+Email: kcui23@wisc.edu
 <!--
 **Ark-Kai/Ark-Kai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
