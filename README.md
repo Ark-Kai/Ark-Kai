@@ -22,7 +22,8 @@ A: I don't have a specific plan yet. LLMs have greatly changed my expectations f
 
 ---
 
-Email: kcui23@wisc.edu
+Email: kcui23@wisc.edu <br>
+Homepage: [https://kcui23.github.io](https://kcui23.github.io)
 <!--
 **Ark-Kai/Ark-Kai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
