@@ -3,11 +3,11 @@
 </a>
 
 ### Hi there!
-I'm Kai Cui, currently a first-year master's student in University of Wisconsin-Madison MSDS program.
+I'm Kai Cui, currently an RA of HKUST-GZ, under the supervison of <a href="https://www.hkust-gz.edu.cn/people/lei-chen/">Prof. Lei Chen</a>.
 
 ---
 
-Email: kcui23@wisc.edu <br>
+Email: kaicui@hkust-gz.edu.cn, kcui@foxmail.com <br>
 <!--
 **Ark-Kai/Ark-Kai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
