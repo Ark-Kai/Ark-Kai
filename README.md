@@ -3,7 +3,7 @@
 </a>
 
 ### Hi there!
-I'm Kai Cui, currently an RA of HKUST-GZ, under the supervison of <a href="https://www.hkust-gz.edu.cn/people/lei-chen/">Prof. Lei Chen</a>.
+I'm Kai Cui, currently an RA of HKUST-GZ, under the supervision of <a href="https://www.hkust-gz.edu.cn/people/lei-chen/">Prof. Lei Chen</a>.
 
 ---
 
