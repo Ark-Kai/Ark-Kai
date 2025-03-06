@@ -1,9 +1,9 @@
-<a href="https://github.com/ark-kai">
+<a href="https://github.com/kcui23" target="_blank">
     <img align="right" src="https://komarev.com/ghpvc/?username=kcui23&label=Visitors&color=2666f1&style=flat" alt="gtihub-visitors" />
 </a>
 
 ### Hi there!
-I'm Kai Cui, currently a Research Assistant at HKUST-GZ, working in the <a href='https://mdi.hkust-gz.edu.cn/index.html'>Medical Data Intelligence Lab</a> under the supervision of <a href="https://www.hkust-gz.edu.cn/people/lei-chen/">Professor Lei Chen</a>.
+I'm Kai Cui, currently a Research Assistant at HKUST-GZ, working in the <a href='https://mdi.hkust-gz.edu.cn/index.html' target="_blank">Medical Data Intelligence Lab</a> under the supervision of <a href="https://www.hkust-gz.edu.cn/people/lei-chen/" target="_blank">Professor Lei Chen</a>.
 
 ---
 
